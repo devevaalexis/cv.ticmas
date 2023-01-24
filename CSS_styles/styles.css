@@ -1,0 +1,36 @@
+* {
+    color: crimson;
+}
+
+p {
+        color: red;
+    width: 300px;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid blue;
+    padding: 1px;
+    margin: 2px;
+    font-weight: bold;
+    color: orange;
+}
+
+section {
+    width: 250px;
+    border: 2px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
+
+  #texto_dife {
+    color: darkblue;
+    font-size: 21px;
+    border: 2px solid red;
+    text-align: justify;
+  }
+
+  .claseparap {
+    color: lightblue;
+    font-size: 12px;
+  }
